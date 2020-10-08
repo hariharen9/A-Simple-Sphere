@@ -1,9 +1,10 @@
 # A-Simple-Sphere
-A simple sphere game for windows PC
+# Using Unity Game Engine
+A simple sphere game for windows PC with simple installation
 
 Run the setup file.
-Save the game to your desired location.
+Choose the game to your desired location.
 Let the installation complete ,then 
 Click the Desktop icon to play the game
 
-#Enjoy!
+# Enjoy!
